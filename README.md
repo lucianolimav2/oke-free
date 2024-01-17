@@ -103,7 +103,7 @@ oci session validate --config-file ~/.oci/config --profile DEFAULT --auth securi
 1. Clone o repositório.
 
 ```
-git clone https://github.com/Rapha-Borges/oci-k8s.git
+git clone https://github.com/Rapha-Borges/oke-free.git
 ```
 
 2. Dentro do diretório do projeto, gere a chave SSH e adicione o valor da chave pública na TF_VAR.
